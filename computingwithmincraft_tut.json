@@ -1,0 +1,15 @@
+{
+    "name": "computingwithminecraft_tut",
+    "version": "0.0.3",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "minecraft-Unit5WindPower-Lesson1.mkcd",
+        "README.md"
+    ],
+    "supportedTargets": [
+        "Minecraft"
+    ],
+}
